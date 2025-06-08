@@ -1,1 +1,1 @@
-# botanicus
+# KanjiGuessr
